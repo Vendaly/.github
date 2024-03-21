@@ -1,6 +1,6 @@
 ## Hi there 👋 ☕
 
-# We're Vendaly
+# We're [Vendaly](https://www.linkedin.com/company/vendaly/)
 
 A sophisticated platform to simplify the event vendor booking and management process.
 
